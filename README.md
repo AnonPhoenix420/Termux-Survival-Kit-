@@ -9,7 +9,7 @@ This kit specifically resolves common architecture-specific build errors for Pyt
 
 
 
-```​🚀 Features```
+# ​🚀 Features
 
 
 
@@ -26,7 +26,7 @@ Survival Toolset: Full suite of networking (Nmap, Tor), automation (Python, Go, 
 
 
 
-```🛠️ Installation & Usage```
+# 🛠️ Installation & Usage
 
 
 
@@ -72,7 +72,7 @@ Layer Components Strategy
 
 
 
-```⚠️ Troubleshooting```
+# ⚠️ Troubleshooting
 
 
 Build Failures (pynacl / cryptography)
@@ -92,7 +92,7 @@ Python 2 Legacy
 
 
 
-```📜 Repository Information```
+# 📜 Repository Information
 
       Author: AnonPhoenix420
       
