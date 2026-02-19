@@ -1,0 +1,25 @@
+# --- System Junk ---
+.DS_Store
+*.swp
+*.swo
+.fuse_hidden*
+
+# --- Git/Editor Junk ---
+.idea/
+.vscode/
+*.bak
+
+# --- Termux Specifics (Safety first) ---
+# Prevents accidentally uploading your internal Termux settings
+.termux/
+storage/
+
+# --- Logs ---
+*.log
+npm-debug.log*
+pip-log.txt
+
+# --- Python Junk (Just in case you add scripts later) ---
+__pycache__/
+*.py[cod]
+*$py.class
