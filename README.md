@@ -44,7 +44,7 @@ termux-setup-storage pkg install git nano -y
 
 
 ```
-https://github.com/AnonPhoenix420/Termux-Survival-Kit-.git
+git clone https://github.com/AnonPhoenix420/Termux-Survival-Kit-.git
 
 ```
 
