@@ -53,7 +53,7 @@ git clone https://github.com/AnonPhoenix420/Termux-Survival-Kit-.git
 
 
 ```
-cd Termux-packages
+cd Termux-Survival-Kit-
 chmod +x survival.sh
 ./survival.sh
 ```
