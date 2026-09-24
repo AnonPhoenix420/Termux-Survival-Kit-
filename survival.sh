@@ -32,7 +32,7 @@ pkg install python perl ruby golang php rust -y
 # 5. NETWORKING & SURVIVAL TOOLS
 echo "🌐 Installing networking and system tools..."
 pkg install wget curl git nano tmux termux-api proot-distro \
-tor cloudflared subversion openssh nmap proxychains-ng -y
+tor cloudflared subversion openssh nmap proxychains-ng torsocks -y
 
 # 6. SYSTEM-LEVEL PYTHON PACKAGES
 echo "📊 Installing scientific Python modules..."
